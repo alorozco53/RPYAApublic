@@ -1,0 +1,15 @@
+PERSPECTIVA,TEMPERATURA,HUMEDAD,VIENTO,HORAS JUGADAS
+lluvioso,caluroso,alta,no,26
+lluvioso,caluroso,alta,sí,30
+nublado,caluroso,alta,no,48
+soleado,templado,alta,no,46
+soleado,fresco,normal,no,62
+soleado,fresco,normal,sí,23
+nublado,fresco,normal,sí,43
+lluvioso,templado,alta,no,36
+lluvioso,fresco,normal,no,38
+soleado,templado,normal,no,46
+lluvioso,templado,normal,sí,48
+nublado,templado,alta,sí,62
+nublado,caluroso,normal,no,44
+soleado,templado,alta,sí,30
